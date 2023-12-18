@@ -2,7 +2,8 @@
 
 ## Starting
 
-Linux, Windows and Mac:
+Linux, Windows and Mac instruction :
+
 http://licence-info.univ-lyon1.fr/grapic
 
 ## Introduction
