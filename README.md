@@ -42,6 +42,9 @@ Compiling from the github (which is not the standard way).
  - In the left part (Management) of the logiciel, double clic in the projet of yours choice (it's those in /apps)
  - Finally clic in the green arrow in the top of the screen
 
+![OpenFolder](image/OpenFolder.jpg)
+![OpenFile](image/OpenFile.jpg)
+
 ## Put your new project in GraPic
 
 Add your directory with your cpp files in "apps" and add the path in "premake4".
