@@ -2,9 +2,20 @@
 
 ## Idea
 
+Je voulais synthetiser mon apprentissage de la librairie GraPic avec mes autres mini-projet de particule, image, ressort, menu dans un seul projet.
+
+Voici Fall Castle, un dérivé de Angry Bird où l'on lance un dragon sur des chevaliers qui ce mouvoient en rebondissant.
+
 ![image](image/Fallcastle1.jpg)
+
+Pour tirer dans la direction voulu il suffit de cliquer sur l'écran avec la souris, ce qui donnera la direction et la vitesse au dragon.
+Et pour retirer il faut cliquer sur le bouton correspondant en haut a gauche.
+
 ![image](image/Fallcastle2.jpg)
 ![image](image/Fallcastle3.jpg)
+
+Pour gagner il faut toucher les 3 ennemis et avoir le meilleur record !!!
+
 ![image](image/Fallcastle4.jpg)
 
 # GrAPiC 
