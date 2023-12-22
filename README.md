@@ -2,19 +2,19 @@
 
 ## Idea
 
-Je voulais synthetiser mon apprentissage de la librairie GraPic avec mes autres mini-projet de particule, image, ressort, menu dans un seul projet.
+I wanted to synthesize my learning of the GraPic library with my other particle, image, spring, menu mini-projects in a single project.
 
-Voici Fall Castle, un dérivé de Angry Bird où l'on lance un dragon sur des chevaliers qui ce mouvoient en rebondissant.
+Here is Fall Castle, a derivative of Angry Bird where you throw a dragon at knights who move while bouncing.
 
 ![image](image/Fallcastle1.jpg)
 
-Pour tirer dans la direction voulu il suffit de cliquer sur l'écran avec la souris, ce qui donnera la direction et la vitesse au dragon.
-Et pour retirer il faut cliquer sur le bouton correspondant en haut a gauche.
+To shoot in the desired direction, simply click on the screen with the mouse, which will give the direction and speed to the dragon.
+And to withdraw, you must click on the corresponding button at the top left.
 
 ![image](image/Fallcastle2.jpg)
 ![image](image/Fallcastle3.jpg)
 
-Pour gagner il faut toucher les 3 ennemis et avoir le meilleur record !!!
+To win you have to hit all 3 enemies and have the best record !!!
 
 ![image](image/Fallcastle4.jpg)
 
