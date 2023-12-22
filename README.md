@@ -18,6 +18,15 @@ To win you have to hit all 3 enemies and have the best record !!!
 
 ![image](image/Fallcastle4.jpg)
 
+# Starting
+
+- Install CodeBlocks (information at the bottom of this page)
+
+- Clone this repo
+```bash
+$ git clone https://github.com/axelvag/Game_Fall_Castle
+```
+
 # GrAPiC 
 
 ## Starting
